@@ -32,24 +32,24 @@ Schritt1:
  
     Javasript:
     """
-    scripts = [
-      {
-        name: "home-server",
-        exce: "npm run dev --prefix /home/pi/Desktop/Next-Server/home-server",
-        terminal: true
-      }
-    ]
+      scripts = [
+         {
+            name: "home-server",
+            exce: "npm run dev --prefix /home/pi/Desktop/Next-Server/home-server",
+            terminal: true
+         }
+      ]
     """
     
     Python:
     """
-   scripts = [
-      {
-        "name":"home-server",
-        "exce":"python 3 /home/pi/Desktop/test.py",
-        "terminal":True
-      }
-  ]
+      scripts = [
+         {
+            "name":"home-server",
+            "exce":"python 3 /home/pi/Desktop/test.py",
+            "terminal":True
+         }
+       ]
     """
 
 
