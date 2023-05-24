@@ -1,0 +1,15 @@
+{
+  "name": "autostart",
+  "version": "0.0.1",
+  "description": "Respberry Pi autostart",
+  "main": "index.js",
+  "scripts": {
+    "start": "node autostart.js"
+  },
+  "keywords": [
+    "PI autostart",
+    "Respberry autostart"
+  ],
+  "author": "DomJSdev",
+  "license": "UNLICENSED"
+}
